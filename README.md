@@ -14,5 +14,3 @@ So what do you have to do to get the app running?
 + install Roassal3 and Roassal3Exporters from https://github.com/ObjectProfile/Roassal3
 + via the file browser filein 'Pedro1.st' (that's the source code)
 + in the Transcript do 'ETileApp run'
-
-As you see a complete immage would be easier to handle.  
