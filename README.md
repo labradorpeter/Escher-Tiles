@@ -11,3 +11,5 @@ Read *Escher's Patterns.pdf*.
 + Import the image in the Launcher.  
 + Launch Pharo Smalltalk with that image.  
 + Do *ETileApp run* in Transcript.  
+
+Additionally the filed out source package is *Pedro1.st*.  
